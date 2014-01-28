@@ -65,11 +65,10 @@ p {
   padding-top: 9px;
   font-weight: bold;
   line-height: 1;
-}
-
-#logo:hover {
-  color: #BBBBFF;
-  text-decoration: none;
+  &:hover {
+    color: #BBBBFF;
+    text-decoration: none;
+  }
 }
 
 
